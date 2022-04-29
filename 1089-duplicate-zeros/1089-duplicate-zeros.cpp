@@ -2,39 +2,27 @@ class Solution {
 public:
     void duplicateZeros(vector<int>& arr) {
         
-        vector<int> temp;
-
-        for(int i =0; i<arr.size(); ++i){
+        /* Represents start Pointer */
+        int start = 0;
+        
+        while( start < arr.size()){
             
-            
-          if(temp.size() < arr.size()){
-              
-              if(arr[i] == 0){
-                  temp.push_back(arr[i]);
-                  
-                  if(temp.size() != arr.size()){
-                      temp.push_back(arr[i]);
-                  }
-                  
-                  
-              }
-              else{
-                  temp.push_back(arr[i]);
-                  
-              }
-              
-              
-          }
-            else{
+            if(arr[start] == 0){
                 
-              break;
-          }
+            /* Use of inbuilt "insert" function to insert 0 in the
+                position and shift latter elements to the right*/
+                arr.insert(arr.begin() + start + 1, 0);
+                
+            /* Since we are maintaining the limited size of the array
+                hence popping last element as soon as insert happens*/
+                arr.pop_back();
+                
+                start++;
+            }
             
-        }
-        
-        
-        arr = temp;
-        
+            start++;
+             
+        }       
         
     }
 };
