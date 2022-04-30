@@ -5,26 +5,14 @@ public:
         int ans = 0;
         
         /* Keeps the frequency of each elements */
-        unordered_map<int, int> umap;
-        
-        /* Calculating frequency */
-        for(auto it: nums){
-            umap[it]++;
-        }
-        
-        /* Using the property of Absolute/Modulus of |a-b| which signifies that
-           if a >= b then a-b and if a <b then b - a */
+        vector<int> arr(201, 0);
         
         for(auto it: nums){
             
-            /* Decreasing the count of current elements as it's being consumed */
-            umap[it]--;
+            if(it - k >=0) ans += arr[it - k];
+            ans += arr[it + k];
             
-            
-            
-            ans = ans + umap[it - k];
-            ans = ans + umap[it + k];
-            
+            arr[it]++;   
             
         }
         return ans;   
