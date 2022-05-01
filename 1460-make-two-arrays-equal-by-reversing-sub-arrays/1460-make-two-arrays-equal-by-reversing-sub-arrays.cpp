@@ -2,10 +2,15 @@ class Solution {
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
         
-        sort(target.begin(), target.end());
-        sort(arr.begin(), arr.end());
+        unordered_map<int, int> umap1;
+        unordered_map<int, int> umap2;
         
-        if(arr == target) return true;
+        for(int i = 0; i< target.size(); ++i){
+            umap1[arr[i]]++;
+            umap2[target[i]]++;
+        }
+        
+        if(umap1 == umap2) return true;
         return false;
         
     }
