@@ -25,15 +25,13 @@ class Solution{
         //using sliding window here
         
         int i =0;
-        int j = i+1;
         
         
         while(i <= n-2)
         {   
             
-            swap(arr[i], arr[j]);
+            swap(arr[i], arr[i+1]);
             i += 2;
-            j = i +1;
         }
         
     }
