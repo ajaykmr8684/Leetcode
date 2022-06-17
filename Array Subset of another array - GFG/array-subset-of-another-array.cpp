@@ -31,24 +31,24 @@ string isSubset(int a1[], int a2[], int n, int m) {
     
     unordered_set<int> us;
     
-    for(int i = 0; i<n; ++i)
-    {
+    /*
+    Iterating through the first array and taking-in 
+    all the arr values in the set.    
+    */
+    for(int i =0; i< n; ++i){
         us.insert(a1[i]);
     }
     
-    bool ans = false;
-    for(int i = 0; i<m; ++i)
-    {
-        if(us.find(a2[i]) != us.end()) ans = true;
-        else{
-           ans = false;
-           break;
-        } 
+    /*
+    Iterating
+    */
+    for(int i =0; i< m; ++i){
+       if(us.find(a2[i]) == us.end()) return "No";
     }
     
     
-    if(ans == true) return "Yes";
-    return "No";
+    return "Yes";
+    
     
     
     
