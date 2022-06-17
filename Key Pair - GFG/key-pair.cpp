@@ -13,19 +13,22 @@ public:
 	bool hasArrayTwoCandidates(int arr[], int n, int x) {
 	    // code here
 	    
-	    unordered_set< int> umap;
+	    unordered_map<int, int> umap;
 	    
-	    for(int i = 0; i < n; ++i)
-	    {
-	        if(umap.find(x - arr[i]) != umap.end()){
-	            return true;
-	        } 
+	    for(int i = 0; i< n; ++i){
 	        
-	        umap.insert(arr[i]);
+	        if(umap.find(x- arr[i]) != umap.end()){
+	            
+	            return true;
+	        }
+	        
+	        umap[arr[i]] = i;
+	        
 	    }
 	    
-	    return false;
 
+	 return false;   
+	    
 	}
 };
 
