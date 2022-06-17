@@ -1,5 +1,5 @@
 # Key Pair
-##  Easy 
+## Easy 
 <div class="problem-statement">
                 <p></p><p><span style="font-size:18px">Given an array <strong>Arr</strong> of <strong>N</strong> positive integers and another number <strong>X</strong>. Determine whether or not there exist two elements in <strong>Arr</strong> whose sum is exactly <strong>X</strong>.</span></p>
 
