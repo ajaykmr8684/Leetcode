@@ -4,36 +4,40 @@ public:
         int n = s.length();
         if(n % 2 != 0) return false;
 
-        int open = 0;
+        stack<int> open;
+        stack<int> openClose;
+
         for(int i = 0; i < n; ++i)
         {
-            if(s[i] == '(' || locked[i] == '0')
-            {
-                open++;
+            if(locked[i] == '0') {
+                openClose.push(i);
             }
-            else
-            {
-                open--;
+            else if(s[i] == '(') {
+                open.push(i);
             }
-
-            if(open < 0) return false;
+            else if(s[i] == ')')
+            {
+                if(!open.empty())
+                {
+                    open.pop();
+                }
+                else if(!openClose.empty())
+                {
+                    openClose.pop();
+                }
+                else
+                {
+                    return false;
+                }
+            }
         }
 
-        int close = 0;
-        for(int i = n-1; i >= 0; --i)
+        while(!open.empty() && !openClose.empty() && open.top() < openClose.top())
         {
-            if(s[i] == ')' || locked[i] == '0')
-            {
-                close++;
-            }
-            else
-            {
-                close--;
-            }
-
-            if(close < 0) return false;
+            open.pop();
+            openClose.pop();
         }
 
-        return true;
+        return open.empty();
     }
 };
