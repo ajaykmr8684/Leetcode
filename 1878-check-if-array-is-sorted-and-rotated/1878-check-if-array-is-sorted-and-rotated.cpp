@@ -10,9 +10,7 @@ public:
         }
         cout << peaks;
 
-        if(peaks <= 1) return true;
-
-        return false;
+        return peaks <=1;
 
     }
 };
