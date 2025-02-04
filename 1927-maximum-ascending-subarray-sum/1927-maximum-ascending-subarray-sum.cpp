@@ -12,7 +12,6 @@ public:
                 total = 0;
             }
             total += nums[i];
-            cout << total << endl;
             maxi = max(total, maxi);
         }
         
