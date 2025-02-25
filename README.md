@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0952-word-subsets) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajaykmr8684/Leetcode/tree/master/0242-valid-anagram) |
+| [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ajaykmr8684/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
