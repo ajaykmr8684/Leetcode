@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ajaykmr8684/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3429-special-array-i) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ajaykmr8684/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ajaykmr8684/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ajaykmr8684/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
