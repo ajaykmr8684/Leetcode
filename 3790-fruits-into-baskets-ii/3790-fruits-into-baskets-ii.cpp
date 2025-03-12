@@ -8,16 +8,13 @@ public:
             for(int j = 0; j < baskets.size(); ++j) {
                 if(fruits[i] <= baskets[j] && baskets[j] != -1){
                     baskets[j] = -1;
+                    notPlaced++;
                     break;
                 } 
             }   
         }
 
-        for(auto it: baskets) {
-            if(it != -1) notPlaced++;
-        }
-
-        return notPlaced;
+        return baskets.size() - notPlaced;
 
     }
 };
