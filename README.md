@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ajaykmr8684/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajaykmr8684/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ajaykmr8684/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ajaykmr8684/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajaykmr8684/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
