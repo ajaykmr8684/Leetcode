@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ajaykmr8684/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ajaykmr8684/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ajaykmr8684/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ajaykmr8684/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajaykmr8684/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ajaykmr8684/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaykmr8684/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
