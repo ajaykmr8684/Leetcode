@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ajaykmr8684/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ajaykmr8684/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -480,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaykmr8684/Leetcode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
