@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajaykmr8684/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ajaykmr8684/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajaykmr8684/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ajaykmr8684/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ajaykmr8684/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ajaykmr8684/Leetcode/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaykmr8684/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ajaykmr8684/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ajaykmr8684/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaykmr8684/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajaykmr8684/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
