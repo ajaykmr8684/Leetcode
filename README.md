@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaykmr8684/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ajaykmr8684/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ajaykmr8684/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ajaykmr8684/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ajaykmr8684/Leetcode/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/ajaykmr8684/Leetcode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ajaykmr8684/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
+| [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/ajaykmr8684/Leetcode/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2434-design-a-number-container-system](https://github.com/ajaykmr8684/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
