@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ajaykmr8684/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ajaykmr8684/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ajaykmr8684/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaykmr8684/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ajaykmr8684/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ajaykmr8684/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
