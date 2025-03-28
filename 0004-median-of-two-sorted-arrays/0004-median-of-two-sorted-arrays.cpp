@@ -34,8 +34,6 @@ public:
             k++;
         }
 
-        sort(temp.begin(), temp.end());
-
         int size = m + n;
 
         if(size % 2 == 1) {
