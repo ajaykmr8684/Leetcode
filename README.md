@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajaykmr8684/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ajaykmr8684/Leetcode/tree/master/0682-baseball-game) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/ajaykmr8684/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
