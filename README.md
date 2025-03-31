@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ajaykmr8684/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/ajaykmr8684/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ajaykmr8684/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/ajaykmr8684/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
