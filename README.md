@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
+| [0860-design-circular-queue](https://github.com/ajaykmr8684/Leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/ajaykmr8684/Leetcode/tree/master/0883-car-fleet) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaykmr8684/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/ajaykmr8684/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/ajaykmr8684/Leetcode/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/ajaykmr8684/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/ajaykmr8684/Leetcode/tree/master/0860-design-circular-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ajaykmr8684/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ajaykmr8684/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ajaykmr8684/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/ajaykmr8684/Leetcode/tree/master/0860-design-circular-queue) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
