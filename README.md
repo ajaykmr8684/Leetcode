@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajaykmr8684/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajaykmr8684/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ajaykmr8684/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ajaykmr8684/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajaykmr8684/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
@@ -677,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ajaykmr8684/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1185-find-in-mountain-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
