@@ -11,32 +11,17 @@
  */
 class Solution {
 public:
-    unordered_map<int, int> mp;
-    int maxDepth = 0;
+    pair<int, TreeNode*> solve(TreeNode* root) {
+        if(root == NULL) return {0, NULL};
 
-    void depthOfTree(TreeNode* root, int depth) {
-        if(!root) return;
+        auto l = solve(root->left);
+        auto r = solve(root->right);
 
-        maxDepth = max(maxDepth, depth);
-        mp[root->val] = depth;
-        depthOfTree(root->left, depth+1);
-        depthOfTree(root->right, depth+1);
-    }
-
-    TreeNode* LCA(TreeNode* root) {
-        if(!root || mp[root->val] == maxDepth) {
-            return root;
-        }
-
-        TreeNode* l = LCA(root->left);
-        TreeNode* r = LCA(root->right);
-
-        if(l && r) return root;
-
-        return l != NULL ? l : r;
+        if(l.first == r.first) return {l.first+1, root};
+        else if(l.first > r.first) return {l.first+1, l.second};
+        else return {r.first+1, r.second};
     }
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        depthOfTree(root, 0);
-        return LCA(root);
+        return solve(root).second;
     }
 };
