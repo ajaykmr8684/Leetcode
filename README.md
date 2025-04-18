@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ajaykmr8684/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ajaykmr8684/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ajaykmr8684/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ajaykmr8684/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaykmr8684/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ajaykmr8684/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ajaykmr8684/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0410-split-array-largest-sum) |
