@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ajaykmr8684/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ajaykmr8684/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ajaykmr8684/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ajaykmr8684/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ajaykmr8684/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ajaykmr8684/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ajaykmr8684/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
