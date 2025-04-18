@@ -5,8 +5,8 @@ public:
         int count = 0;
 
         while(temp) {
-            if(temp & 1 == 1) count++;
-            temp = temp >> 1;
+            temp = temp & temp-1;
+            count++;
             
         }
 
