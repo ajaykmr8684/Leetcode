@@ -5,10 +5,9 @@ public:
         int count = 0;
 
         while(temp) {
-            int rem = temp % 2;
-            if(rem == 1) count++;
-
-            temp /= 2;
+            if(temp & 1 == 1) count++;
+            temp = temp >> 1;
+            
         }
 
         return count;
