@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ajaykmr8684/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ajaykmr8684/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ajaykmr8684/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajaykmr8684/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/ajaykmr8684/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ajaykmr8684/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaykmr8684/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ajaykmr8684/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajaykmr8684/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -778,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ajaykmr8684/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
