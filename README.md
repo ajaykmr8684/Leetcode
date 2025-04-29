@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ajaykmr8684/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ajaykmr8684/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaykmr8684/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaykmr8684/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ajaykmr8684/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ajaykmr8684/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/ajaykmr8684/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaykmr8684/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ajaykmr8684/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
