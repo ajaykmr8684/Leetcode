@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ajaykmr8684/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaykmr8684/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajaykmr8684/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ajaykmr8684/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ajaykmr8684/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ajaykmr8684/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ajaykmr8684/Leetcode/tree/master/0344-reverse-string) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ajaykmr8684/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ajaykmr8684/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/ajaykmr8684/Leetcode/tree/master/0684-redundant-connection) |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ajaykmr8684/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ajaykmr8684/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaykmr8684/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
