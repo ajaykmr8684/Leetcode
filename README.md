@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ajaykmr8684/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/ajaykmr8684/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1185-find-in-mountain-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ajaykmr8684/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ajaykmr8684/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ajaykmr8684/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/ajaykmr8684/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ajaykmr8684/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ajaykmr8684/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ajaykmr8684/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ajaykmr8684/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/ajaykmr8684/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaykmr8684/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
