@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ajaykmr8684/Leetcode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/ajaykmr8684/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaykmr8684/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
