@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ajaykmr8684/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ajaykmr8684/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ajaykmr8684/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ajaykmr8684/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajaykmr8684/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0078-subsets) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ajaykmr8684/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ajaykmr8684/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ajaykmr8684/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ajaykmr8684/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0146-lru-cache) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ajaykmr8684/Leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ajaykmr8684/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ajaykmr8684/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ajaykmr8684/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
