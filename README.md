@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajaykmr8684/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ajaykmr8684/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ajaykmr8684/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ajaykmr8684/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ajaykmr8684/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ajaykmr8684/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ajaykmr8684/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/ajaykmr8684/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ajaykmr8684/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ajaykmr8684/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ajaykmr8684/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/ajaykmr8684/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ajaykmr8684/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/ajaykmr8684/Leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/ajaykmr8684/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ajaykmr8684/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ajaykmr8684/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
