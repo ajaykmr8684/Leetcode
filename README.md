@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ajaykmr8684/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ajaykmr8684/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ajaykmr8684/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ajaykmr8684/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ajaykmr8684/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ajaykmr8684/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/ajaykmr8684/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ajaykmr8684/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
