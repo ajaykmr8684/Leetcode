@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajaykmr8684/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/ajaykmr8684/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajaykmr8684/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/ajaykmr8684/Leetcode/tree/master/1500-count-largest-group) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/ajaykmr8684/Leetcode/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
