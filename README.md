@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ajaykmr8684/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaykmr8684/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ajaykmr8684/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ajaykmr8684/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ajaykmr8684/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaykmr8684/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ajaykmr8684/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ajaykmr8684/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/ajaykmr8684/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ajaykmr8684/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ajaykmr8684/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ajaykmr8684/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ajaykmr8684/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/ajaykmr8684/Leetcode/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/ajaykmr8684/Leetcode/tree/master/0937-online-stock-span) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ajaykmr8684/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ajaykmr8684/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaykmr8684/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
