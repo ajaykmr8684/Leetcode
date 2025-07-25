@@ -1,32 +1,16 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
+        unordered_set<int> st(nums.begin(), nums.end());
 
-        if(nums.size() == 1) return nums[0];
-        unordered_set<int> st;
-        for(auto it: nums) {
-            st.insert(it);
-        }
+        int ans = 0;
 
-        int maxValue = *max_element(nums.begin(), nums.end());
-
-        int ans = INT_MIN;
-        int sum = 0;
-        bool isZero = false;
         for(auto it: st) {
-            if(it == 0) isZero = true;
-            if(it > 0) {
-                sum += it;
-            }
+            if(it > 0)
+             ans += it;
         }
+        if(ans == 0) ans = *max_element(st.begin(), st.end());
 
-        if(maxValue < 0 && isZero == true && sum == 0) {
-            return maxValue;
-        }
-
-        if(maxValue < 0 && isZero == false && sum == 0) {
-            return maxValue;
-        }
-        return sum;
+        return ans;
     }
 };
