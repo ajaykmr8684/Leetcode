@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ajaykmr8684/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ajaykmr8684/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/ajaykmr8684/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0952-word-subsets) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ajaykmr8684/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ajaykmr8684/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ajaykmr8684/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/ajaykmr8684/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ajaykmr8684/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaykmr8684/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/ajaykmr8684/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaykmr8684/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
