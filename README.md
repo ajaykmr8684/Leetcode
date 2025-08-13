@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ajaykmr8684/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajaykmr8684/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ajaykmr8684/Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/ajaykmr8684/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/ajaykmr8684/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ajaykmr8684/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ajaykmr8684/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/ajaykmr8684/Leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
