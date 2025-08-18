@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajaykmr8684/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ajaykmr8684/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/ajaykmr8684/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/ajaykmr8684/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ajaykmr8684/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ajaykmr8684/Leetcode/tree/master/0739-daily-temperatures) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ajaykmr8684/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ajaykmr8684/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ajaykmr8684/Leetcode/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/ajaykmr8684/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/ajaykmr8684/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/ajaykmr8684/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ajaykmr8684/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ajaykmr8684/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/ajaykmr8684/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/ajaykmr8684/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaykmr8684/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ajaykmr8684/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
