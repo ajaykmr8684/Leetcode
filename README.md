@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/ajaykmr8684/Leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/ajaykmr8684/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/ajaykmr8684/Leetcode/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/ajaykmr8684/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/ajaykmr8684/Leetcode/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ajaykmr8684/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaykmr8684/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ajaykmr8684/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/ajaykmr8684/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/ajaykmr8684/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/ajaykmr8684/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/ajaykmr8684/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaykmr8684/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ajaykmr8684/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ajaykmr8684/Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/ajaykmr8684/Leetcode/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ajaykmr8684/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
