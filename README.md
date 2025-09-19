@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ajaykmr8684/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/ajaykmr8684/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3819-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3819-count-covered-buildings) |
 ## String
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ajaykmr8684/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3797-design-spreadsheet](https://github.com/ajaykmr8684/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/ajaykmr8684/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ajaykmr8684/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/ajaykmr8684/Leetcode/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ajaykmr8684/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/ajaykmr8684/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3819-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ajaykmr8684/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ajaykmr8684/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ajaykmr8684/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ajaykmr8684/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/ajaykmr8684/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ajaykmr8684/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/ajaykmr8684/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/ajaykmr8684/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
