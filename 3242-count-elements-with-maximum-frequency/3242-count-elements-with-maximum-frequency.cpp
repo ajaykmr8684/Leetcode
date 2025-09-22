@@ -2,14 +2,10 @@ class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
         unordered_map<int, int> mp;
+        int maxi = 0;
         for(auto it: nums) {
             mp[it]++;
-        }
-
-        //Get the max frequency.
-        int maxi = 0;
-        for(auto it: mp) {
-            maxi = max(maxi, it.second);
+            maxi = max(maxi, mp[it]);
         }
 
         //Find out how many elements have the max frequency.
