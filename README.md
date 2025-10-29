@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajaykmr8684/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ajaykmr8684/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String Matching
 |  |
 | ------- |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ajaykmr8684/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ajaykmr8684/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ajaykmr8684/Leetcode/tree/master/3830-find-closest-person) |
 ## Simulation
