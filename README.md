@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3819-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/ajaykmr8684/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3819-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/ajaykmr8684/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ajaykmr8684/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ajaykmr8684/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/ajaykmr8684/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ajaykmr8684/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ajaykmr8684/Leetcode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1115,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ajaykmr8684/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ajaykmr8684/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
