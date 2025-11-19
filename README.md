@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/ajaykmr8684/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/ajaykmr8684/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ajaykmr8684/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaykmr8684/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ajaykmr8684/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ajaykmr8684/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ajaykmr8684/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaykmr8684/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/ajaykmr8684/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ajaykmr8684/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ajaykmr8684/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ajaykmr8684/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaykmr8684/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ajaykmr8684/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ajaykmr8684/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaykmr8684/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaykmr8684/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ajaykmr8684/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ajaykmr8684/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
