@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ajaykmr8684/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ajaykmr8684/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/ajaykmr8684/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0952-word-subsets) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ajaykmr8684/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ajaykmr8684/Leetcode/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ajaykmr8684/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/ajaykmr8684/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ajaykmr8684/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
