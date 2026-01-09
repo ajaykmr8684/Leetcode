@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ajaykmr8684/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/ajaykmr8684/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ajaykmr8684/Leetcode/tree/master/0817-design-hashmap) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/ajaykmr8684/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaykmr8684/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/ajaykmr8684/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/ajaykmr8684/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ajaykmr8684/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/ajaykmr8684/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/ajaykmr8684/Leetcode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ajaykmr8684/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -943,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ajaykmr8684/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaykmr8684/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ajaykmr8684/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
