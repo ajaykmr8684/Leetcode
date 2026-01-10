@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ajaykmr8684/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ajaykmr8684/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ajaykmr8684/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/ajaykmr8684/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ajaykmr8684/Leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ajaykmr8684/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ajaykmr8684/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ajaykmr8684/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ajaykmr8684/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/ajaykmr8684/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ajaykmr8684/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaykmr8684/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
