@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ajaykmr8684/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ajaykmr8684/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ajaykmr8684/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/ajaykmr8684/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ajaykmr8684/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/ajaykmr8684/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ajaykmr8684/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ajaykmr8684/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/ajaykmr8684/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -861,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/ajaykmr8684/Leetcode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1060,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ajaykmr8684/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1287,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ajaykmr8684/Leetcode/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
