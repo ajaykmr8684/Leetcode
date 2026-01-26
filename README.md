@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ajaykmr8684/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/ajaykmr8684/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1185-find-in-mountain-array](https://github.com/ajaykmr8684/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/ajaykmr8684/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ajaykmr8684/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ajaykmr8684/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ajaykmr8684/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ajaykmr8684/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/ajaykmr8684/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ajaykmr8684/Leetcode/tree/master/0948-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/ajaykmr8684/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ajaykmr8684/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ajaykmr8684/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
