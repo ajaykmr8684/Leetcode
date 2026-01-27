@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ajaykmr8684/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/ajaykmr8684/Leetcode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajaykmr8684/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ajaykmr8684/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ajaykmr8684/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1334,4 +1336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ajaykmr8684/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
