@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/ajaykmr8684/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ajaykmr8684/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/ajaykmr8684/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ajaykmr8684/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ajaykmr8684/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ajaykmr8684/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ajaykmr8684/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ajaykmr8684/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Quickselect
