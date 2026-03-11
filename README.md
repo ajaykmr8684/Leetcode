@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ajaykmr8684/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ajaykmr8684/Leetcode/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ajaykmr8684/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/ajaykmr8684/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ajaykmr8684/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ajaykmr8684/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ajaykmr8684/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
