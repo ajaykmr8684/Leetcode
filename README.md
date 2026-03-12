@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ajaykmr8684/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ajaykmr8684/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ajaykmr8684/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ajaykmr8684/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3647-zero-array-transformation-iii](https://github.com/ajaykmr8684/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ajaykmr8684/Leetcode/tree/master/2690-house-robber-iv) |
 | [3453-separate-squares-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ajaykmr8684/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ajaykmr8684/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -1374,5 +1376,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ajaykmr8684/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ajaykmr8684/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ajaykmr8684/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ajaykmr8684/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ajaykmr8684/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ajaykmr8684/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
